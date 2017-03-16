@@ -14,7 +14,6 @@
  * under the License.
  */
 package com.linecorp.sample.login;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
